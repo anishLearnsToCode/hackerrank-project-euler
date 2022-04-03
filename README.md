@@ -7,7 +7,7 @@
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 ## Problems
-|  #  | Name                                                                                                             |                       Solution                        | Youtube |
-|:---:|------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|:-------:|
-|  1  | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)                     | [![Java](assets/java.png)](src/MultiplesOf3And5.java) |         |
-|  2  | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002?isFullScreen=true) |           [![Java](assets/java.png)](src/)            |         |
+|  #  | Name                                                                                                             |                         Solution                          | Youtube |
+|:---:|------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------:|:-------:|
+|  1  | [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)                     |   [![Java](assets/java.png)](src/MultiplesOf3And5.java)   |         |
+|  2  | [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002?isFullScreen=true) | [![Java](assets/java.png)](src/EvenFibonacciNumbers.java) |         |
